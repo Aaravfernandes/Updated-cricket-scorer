@@ -1,0 +1,16 @@
+{
+  "name": "Cricket Scorer",
+  "short_name": "Cricket",
+  "description": "Offline cricket scoring for Test, ODI and T20 matches",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eeefec",
+  "theme_color": "#457b3e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
